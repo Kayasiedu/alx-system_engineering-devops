@@ -1,1 +1,1 @@
-absolute path name of the current working directory
+script to change working directory to a users home directory
